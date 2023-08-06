@@ -25,6 +25,9 @@ Run the server locally (you need to have Node installed on your machine):
 node index.js
 ```
 
+Check if the api is working:
+`http://localhost:5000/product/S10005`
+
 ## Tech stack 
 
 Node.js
